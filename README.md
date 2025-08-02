@@ -1,15 +1,15 @@
-🛒 Walmart Sales Forecasting | Time Series with SARIMAX
+# **🛒 Walmart Sales Forecasting | Time Series with SARIMAX**
 
 This project focuses on forecasting weekly store sales for Walmart over the next 12 weeks using time series modeling techniques, 
 primarily SARIMAX. It involves detailed preprocessing per store, stationarity testing, and hyperparameter tuning using statistical 
 and programmatic methods.
 
-📌 Project Objective
+# 📌 Project Objective
 
 To accurately forecast weekly sales for each Walmart store using time series forecasting and deliver
 insights to support business decisions such as inventory planning and promotional strategy.
 
-📊 Key Features
+# 📊 Key Features
 
 ✅ Built SARIMAX models tailored to each store's sales data
 
@@ -21,7 +21,7 @@ insights to support business decisions such as inventory planning and promotiona
 
 ✅ Created separate models and forecasts for each store
 
-🧠 Methodology
+# 🧠 Methodology
 
 1. Data Preprocessing
 
@@ -51,7 +51,7 @@ Compared performance via metrics like AIC/BIC
 
 Analyzed forecast stability and seasonal patterns
 
-🗂️ Dataset
+# 🗂️ Dataset
 
 Walmart historical sales data
 
@@ -59,7 +59,7 @@ Includes weekly sales, store IDs, promotions, and holidays
 
 Dataset is assumed to be pre-downloaded or accessed via script
 
-🧪 Libraries Used
+# 🧪 Libraries Used
 
 pandas – Data preprocessing
 
@@ -71,7 +71,7 @@ matplotlib / seaborn – Data visualization
 
 itertools – Model order search automation
 
-💡 Future Enhancements
+# 💡 Future Enhancements
 
 Add exogenous variables (e.g., holidays, promotions)
 
