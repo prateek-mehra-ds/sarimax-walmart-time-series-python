@@ -1,5 +1,9 @@
 # **🛒 Walmart Sales Forecasting | Time Series with SARIMAX**
 
+![Walmart_project_png](images/walmart_project_image.png)
+
+# Overview
+
 This project focuses on forecasting weekly store sales for Walmart over the next 12 weeks using time series modeling techniques, 
 primarily SARIMAX. It involves detailed preprocessing per store, stationarity testing, and hyperparameter tuning using statistical 
 and programmatic methods.
